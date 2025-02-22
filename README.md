@@ -1,2 +1,2 @@
 # rider
-Figure this shit out
+How do I figure this shit out
